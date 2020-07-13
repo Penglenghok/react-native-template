@@ -1,4 +1,4 @@
 module.exports = {
-    placeholderName: 'HelloWorld',
+    placeholderName: 'AscendingTimes',
     templateDir: './AscendingTimes',
   }
