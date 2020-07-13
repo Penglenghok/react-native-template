@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Firebase and mobx React Native template for a quick start with TypeScript.",
   "files": [
-    "template",
+    "AscendingTimes",
     "template.config.js"
   ],
   "repository": {
