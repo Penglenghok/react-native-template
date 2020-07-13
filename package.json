@@ -1,0 +1,28 @@
+{
+    "name": "react-native-template",
+    "version": "0.0.1",
+    "description": "Firebase and mobx React Native template for a quick start with TypeScript.",
+    "files": [
+      "template",
+      "template.config.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Penglenghok/react-native-template.git"
+    },
+    "keywords": [
+      "react-native",
+      "typescript",
+      "jest",
+      "template",
+      "boilerplate",
+      "firebase",
+      "mobx"
+    ],
+    "author": "Pengleng <penglenghok@gmail.com>",
+    "license": "AscendigSoft",
+    "bugs": {
+      "url": "https://github.com/delyethan/react-native-template/issues"
+    },
+    "homepage": "https://github.com/delyethan/react-native-template#readme"
+  }
